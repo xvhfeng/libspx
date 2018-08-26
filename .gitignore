@@ -1,0 +1,5 @@
+
+spx_smart_test
+*.o
+core.*
+.vscode
